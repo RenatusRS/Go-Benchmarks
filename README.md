@@ -1,2 +1,0 @@
-# Go-Benchmarks
-Go Benchmarks
